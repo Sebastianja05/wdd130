@@ -1,0 +1,42 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  /* Aside Element */
+  aside {
+    width: 75%;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  aside img {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+  }
+  
+  p {
+    padding: 0;
+  }
+  
+  /* Footer styles */
+  footer {
+    margin-top: 20px;
+    border-top: 2px solid #ccc;
+    text-align: center;
+    padding: 10px;
+  }
+  
